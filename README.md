@@ -10,6 +10,7 @@ The project appeared in MAKE: MAGAZINE in an article titled:"Weekend Project: Li
 The article provides the instructions to buil the device on a Perfboard. 
 I created a PCB version and I am making it available here.
 
+See it in action in this video: https://youtu.be/9AdUj3FRL2c
 
 GET STARTED:
 
