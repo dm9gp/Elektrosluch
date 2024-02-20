@@ -68,6 +68,7 @@ SOURCES:
 
 https://makezine.com/projects/weekend-project-sample-weird-sounds-electromagnetic-fields/
 https://makezine.com/author/jonas_gruska
+https://www.youtube.com/watch?v=rrDtBW1FyJo
 
 
 LICENSE:
