@@ -14,7 +14,7 @@ See it in action in this video: https://youtu.be/9AdUj3FRL2c
 
 GET STARTED:
 
-To make the "Ear" you will need a Breadboard or Perfboard or print the PCB file (in the latest version) or have the PCB printed for you, the PCB file is in "Fritzing" format .fzz. You can open it in "Fritzing" (https://fritzing.org/) to first check it, modify it and then have it printed by a PCB printing service of your choice, such as AISLER (https://aisler.net/), if you wish. The file "Sluch Gerber 2024-02-17.zip" contains the same but in Gerber format.
+To make the "Ear" you will need a Breadboard or Perfboard or print the PCB file (in the latest version) or have the PCB printed for you, the PCB file is in "Fritzing" format .fzz. You can open it in "Fritzing" (https://fritzing.org/) to first check it, modify it and then have it printed by a PCB printing service of your choice, such as AISLER (https://aisler.net/), if you wish. The file "gerber-files.zip" contains the same but in Gerber format.
 
 You will also need the componets listed below.
 
