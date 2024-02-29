@@ -18,9 +18,9 @@ To make the "Ear" you will need a Breadboard or Perfboard or print the PCB file 
 The PCB file in the "Fritzing" format is called "Sluch YYYY-MM-DD.fzz. 
 Open it in "Fritzing" (download the SW from https://fritzing.org/) to first check it, modify it as you wish and then have it printed by a PCB printing service of your choice, such as AISLER (https://aisler.net/) in Germany. 
 The file "gerber-files <YYYY-MM-DD>.zip" contains the files required to make the same PCB but in Gerber (Extended Gerber RS-274X) format.
-It can printed by a PCB printing service of your choice, such as JLCPCP (https://jlcpcb.com/) in HONG KONG, China, for example.
+Gerber files can printed by a PCB printing service of your choice, such as JLCPCP (https://jlcpcb.com/) in Honk Kong, China or OSHPark (https://oshpark.com) in the U.S., just for example.
 
-You will also need the componets listed below.
+You will need the componets listed below if you are soldering.
 
 
 PARTS:
